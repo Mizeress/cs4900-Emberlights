@@ -12,7 +12,7 @@ https://www.figma.com/design/IT5hoiuID1EiN1TXLCzxiM/Wireframes?node-id=0-1&m=dev
 ### View Playlist & Edit
 <img width="651" height="491" alt="Captura de pantalla 2026-09-10 a las 15 09 57" src="https://github.com/user-attachments/assets/d9159b13-a15d-4c8c-b48f-e7758a19141f" />
 
-*Note: Users view playlist details and layout. Users can select as many songs as they want to replace, and then another screen will pop up just to confirm that action. .*
+*Note: Users view playlist details and layout. Users can select as many songs as they want to replace, and then another screen will pop up just to confirm that action. Users can also search the song they want to replace.*
 
 ### Confirmation
 <img width="651" height="491" alt="Captura de pantalla 2026-09-10 a las 15 10 05" src="https://github.com/user-attachments/assets/308ba47d-796b-48ec-aeba-2658af283bd1" />
