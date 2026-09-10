@@ -10,10 +10,12 @@ https://www.figma.com/design/IT5hoiuID1EiN1TXLCzxiM/Wireframes?node-id=0-1&m=dev
 ## Wireframes
 
 ### View Playlist & Edit
-<img width="406" height="427" alt="Captura de pantalla 2026-09-09 a las 22 02 22" src="https://github.com/user-attachments/assets/a558983a-4ac6-4b53-aa5e-a94763c794b2" />
-*Note: User views playlist details and layout. Clicking 'Replace' next to a song opens the song replacement modal.*
+<img width="651" height="491" alt="Captura de pantalla 2026-09-10 a las 15 09 57" src="https://github.com/user-attachments/assets/d9159b13-a15d-4c8c-b48f-e7758a19141f" />
 
-### Search & Replace
-<img width="398" height="404" alt="Captura de pantalla 2026-09-09 a las 22 03 13" src="https://github.com/user-attachments/assets/c22987ce-de28-45ee-9bde-9bf35bcb70c6" />
+*Note: Users view playlist details and layout. Users can select as many songs as they want to replace, and then another screen will pop up just to confirm that action. .*
 
-*Note: User uses the search bar to find a replacement song and clicks 'Confirm' to swap it.*
+### Confirmation
+<img width="651" height="491" alt="Captura de pantalla 2026-09-10 a las 15 10 05" src="https://github.com/user-attachments/assets/308ba47d-796b-48ec-aeba-2658af283bd1" />
+
+
+*Note: Users have to confirm if they want to replace those songs or not.*
