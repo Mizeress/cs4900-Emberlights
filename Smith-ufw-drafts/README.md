@@ -8,3 +8,7 @@
 ![test](images/SecondEdition1.png)
 
 ![wireframe2](images/SecondEdition2.png)
+
+![wireframe3](images/Wireframe-3.png)
+
+![wireframe4](images/Wireframe-4.png)
