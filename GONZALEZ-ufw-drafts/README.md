@@ -26,6 +26,9 @@ https://www.figma.com/design/IT5hoiuID1EiN1TXLCzxiM/Wireframes?node-id=0-1&m=dev
 
 ## Section: View Playlist & Song Replacement — Heuristic Evaluation & Revisions
 
+## Figma Link
+https://www.figma.com/design/cGXDYMt8Bkx89MNN7NlVhh/Second-Version?node-id=30-92&m=dev
+
 ### 1. Overview
 This section focuses on the **View Playlist** screen and the **Song Replacement** workflow. Following Nielsen's 10 Usability Heuristics, three key usability issues were identified in the initial draft and resolved in the revised wireframes (Second version).
 
