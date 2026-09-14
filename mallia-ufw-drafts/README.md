@@ -11,4 +11,4 @@
 ![Create Page](images/CreatePage.png)
 
 ## Confirmation Box - Wireframe
-![Confirmation Box](images/Screenshot_20260913-125857.png)
+![Confirmation Box](images/ConfirmationBox.png)
