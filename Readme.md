@@ -1,7 +1,7 @@
 # Gonzalez-Brand Guide
 
 ## Figma Link
-[Gonzalez-Brandguide] (https://www.figma.com/design/KLGhbdv1uwyqRLYZ34PQxc/Gonzalez--Brandguide?node-id=0-1&t=99AN4uAJk6jCqI16-1)
+[Gonzalez - Brandguide](https://www.figma.com/design/KLGhbdv1uwyqRLYZ34PQxc/Gonzalez--Brandguide?node-id=0-1&t=99AN4uAJk6jCqI16-1)
 
 
 ## Brand Guide Preview
