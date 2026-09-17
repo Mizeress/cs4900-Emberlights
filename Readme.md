@@ -5,7 +5,8 @@
 
 
 ## Brand Guide Preview
-<img width="739" height="348" alt="Captura de pantalla 2026-09-16 a las 20 14 22" src="https://github.com/user-attachments/assets/4b690bdf-1bca-4de9-bb0d-5f4ba5ca6379" />
+<img width="779" height="342" alt="Captura de pantalla 2026-09-16 a las 21 32 07" src="https://github.com/user-attachments/assets/d3ab4d0f-f896-47ff-8073-d4e3b7d16788" />
+
 
 ## Personality 
 - Modern
