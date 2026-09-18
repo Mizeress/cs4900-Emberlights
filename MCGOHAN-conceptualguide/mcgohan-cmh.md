@@ -8,3 +8,11 @@
     * Attributes are details or identifiers for entities using various datatypes. Attributes can be a primary key, `name`, `date_created`, and so on.
 * What's a Relationship?
     * A relationship is the connection between two entities and how they relate to each other. For example, a *person* can have many *cars*, but a *car* generally has one *person* who *owns* it.
+
+## Conceptual Model for Music App
+
+![concept diagram](images/concept.png)
+
+The conceptual model displays 4 entities: Artist, Album, Song, Playlist.
+
+Artist contains two attributes: `Name` and `Monthly_Listeners`. 
