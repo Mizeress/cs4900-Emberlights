@@ -18,3 +18,6 @@
 | **Create** | Playlists | When the user desires to create a new playlist of songs | To collect a new genre or curate a new list of songs | Add button on the main dashboard | User enters a genre and playlist size and a playlist of random songs is generated |
 | **Edit** | Songs in the playlist | When viewing and curating the playlist | To curate the playlist into songs the user likes | In the playlist view pane | The user clicks a `remove` button on the song they want to swap out |
 | **Dashboard / Homepage** | Shows the main overview of playlists and the add button | On entry to the app and when navigating between playlists | To serve as the pane to navigate between playlists and move into creating playlists or searching playlists | Home button in the top left and main landing page (backing out of most pages leads back here) | Simple webpage that pulls playlists from the database each time the load more button is pressed |
+
+## UI/UX Design
+See our UI/UX Design documentation [here](ui-ux.md)!
