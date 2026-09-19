@@ -7,16 +7,16 @@
 ![Wireframe Overview](ui_diagrams/wireframeOverview.png)
 
 ### Homepage
-![Homepage](ui_diagrams\homepage.png)
+![Homepage](ui_diagrams/homepage.png)
 
 ### Create
-![Create Page](ui_diagrams\createPage.png)
+![Create Page](ui_diagrams/createPage.png)
 
 ### Your Playlists
-![Your Playlists](ui_diagrams\yourPlaylists.png)
+![Your Playlists](ui_diagrams/yourPlaylists.png)
 
 ### View Playlist
-![View Playlist](ui_diagrams\viewPlaylist.png)
+![View Playlist](ui_diagrams/viewPlaylist.png)
 
 ## Brand Guide
-![Brand Guide](ui_diagrams\brandGuide.png)
+![Brand Guide](ui_diagrams/brandGuide.png)
