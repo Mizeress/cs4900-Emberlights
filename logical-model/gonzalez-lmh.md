@@ -48,8 +48,7 @@ The GROUP conceptual model for the Emberlights project can be found in the group
 
 ## Logical Model
 
-![Logical Model](<img width="967" height="247" alt="logical-model" src="https://github.com/user-attachments/assets/71a48dff-dde4-4d44-a7ab-2f23783fc547" />
-)
+[Logical Model](<img width="967" height="247" alt="logical-model" src="https://github.com/user-attachments/assets/71a48dff-dde4-4d44-a7ab-2f23783fc547" />)
 
 The logical model contains four tables:
 
