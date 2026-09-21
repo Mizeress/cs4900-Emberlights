@@ -40,8 +40,6 @@ This logical model separates Songs, Genres, and Playlists into individual tables
 
 ## Group Conceptual Model
 
-The GROUP conceptual model for the Emberlights project can be found in the group repository:
-
 [Emberlights GitHub Repository](https://github.com/AMcGohan/cs4900-EmberLights-Database/tree/main/conceptual_model)
 
 ---
